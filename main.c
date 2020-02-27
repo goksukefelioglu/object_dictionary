@@ -1,7 +1,7 @@
 #include <stdio.h>
-
+#include "object_dic.h"
 int main()
 {
-    printf("Hello World!\n");
+
     return 0;
 }
